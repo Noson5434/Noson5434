@@ -20,7 +20,7 @@
 </p>
 
 <!-- Empty div for separation -->
-<div></div>
+<p></p>
 
 <!-- Contact Info and Fun Fact -->
 - 📫 Reach me at: **noson5434@gmail.com**
