@@ -23,8 +23,10 @@
 <p></p>
 
 <!-- Contact Info and Fun Fact -->
-- 📫 Reach me at: **noson5434@gmail.com**
-- ⚡ Fun Fact: **I can write VBA code with my eyes closed!** 😎
+<p>
+  - 📫 Reach me at: **noson5434@gmail.com**
+  - ⚡ Fun Fact: **I can write VBA code with my eyes closed!** 😎
+</p>
 
 <!-- Social Media Links -->
 <h3 align="left">Connect with Me:</h3>
