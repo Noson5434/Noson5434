@@ -19,12 +19,11 @@
   <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a11a3ce4abbcc9d5be9bbb2d3a4b232c2d2413b67ec7bf9595db965369fede11/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3732303832352f73637265656e73686f74732f333235333331302f736c696d2d6a696d2d5f6472696262626c655f2d5f383030783630305f2e676966" />
 </p>
 
-<!-- Empty div for separation -->
-<p></p>
-
 <!-- Contact Info and Fun Fact -->
 <p>
   - 📫 Reach me at: **noson5434@gmail.com**
+</p>
+<p>
   - ⚡ Fun Fact: **I can write VBA code with my eyes closed!** 😎
 </p>
 
