@@ -20,7 +20,8 @@
 </p>
 
 <!-- Contact Info and Fun Fact -->
-<p style="margin: 0;">
+<br>
+<p>
   &bull; 📫 Reach me at: <a href="mailto:noson5434@gmail.com">noson5434@gmail.com</a><br>
   &bull; ⚡ Fun Fact: <strong>I can write VBA code with my eyes closed!</strong> 😎
 </p>
