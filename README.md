@@ -1,5 +1,5 @@
 <!-- Visitor Count -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Noson5434.Noson5434&left_color=red&right_color=green&left_text=My%20Page%20Visitors" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Noson5434.Noson5434&left_color=red&right_color=green&left_text=Page%20Visitors" />
 
 <!-- Typing SVG -->
 <h1 align="center">
