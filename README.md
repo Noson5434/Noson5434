@@ -67,13 +67,17 @@
 <!-- Stats -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-   <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=noson5434&theme=dark" alt="GitHub Streak" />
+<div align="center">
+   <a href="https://github.com/noson5434">
+      <img width="390" height="195" src="https://streak-stats.demolab.com?user=noson5434&theme=dark" alt="GitHub Streak" />
    </a>
-   <img width=390 src="https://github-readme-stats.vercel.app/api?username=noson5434&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+   <a href="https://github.com/noson5434">
+      <img width="390" height="195" src="https://github-readme-stats.vercel.app/api?username=noson5434&count_private=true&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
+   </a>
    <br />
-   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="top langs" />
+   <a href="https://github.com/noson5434">
+      <img width="390" height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noson5434&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+   </a>
 </div>
 
 <br /><br />
