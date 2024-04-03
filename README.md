@@ -1,62 +1,48 @@
 <!-- Visitor Count -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Noson5434.Noson5434&left_color=red&right_color=green&left_text=My%20Page%20Visitors" />
 
+<!-- Typing SVG -->
+<h1 align="center">
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+Noson+Rabinovich!;" alt="Typing SVG" />
+   </a>
+</h1>
 
-<!-- Header -->
-<p align="center">
-  <a href="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966">
-    <img src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966" alt="MasterHead" />
-  </a>
-</p>
+<!-- Info -->
+<h3 align="center">A passionate software developer from New Jersey, USA</h3>
 
-<!-- Introduction -->
-<h1 align="center">👋 Welcome to My GitHub Profile! 👨‍💻</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=noson5434&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+   🔭 I’m currently exploring **the vast landscapes of IT solutions and software development**
 
-<p align="center">I'm Noson Rabinovich, a passionate developer with expertise in VBA. I love automating tasks, exploring new technologies, and turning ideas into reality. Feel free to browse through my projects and connect with me as we embark on an exciting journey in the world of coding and technology!</p>
+   🌱 I’m on a road trip through **the ever-evolving terrains of VBA, seeking new technologies and frameworks that enhance my journey**
 
-<!-- Animated GIF -->
-<p align="right">
-  <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a11a3ce4abbcc9d5be9bbb2d3a4b232c2d2413b67ec7bf9595db965369fede11/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3732303832352f73637265656e73686f74732f333235333331302f736c696d2d6a696d2d5f6472696262626c655f2d5f383030783630305f2e676966" />
-</p>
+   💬 Query me about **the best routes through VBA, innovative IT solutions, or share your favorite road trip stories [here](https://github.com/Noson5434/Noson5434/issues)**
 
-<!-- Contact Info and Fun Fact -->
-<p>
-  &bull; 📫 Reach me at: <a href="mailto:noson5434@gmail.com">noson5434@gmail.com</a><br>
-  &bull; ⚡ Fun Fact: <strong>I can write VBA code with my eyes closed!</strong> 😎
-</p>
+   ⚡ Fun fact **The code journey is like a road trip; it's all about the scenic routes you take and the stops you make along the way. Did you know some of the most memorable moments in tech history were born from serendipitous 'pit stops'?**
+
+</div>
 
 <!-- Social Media Links -->
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
-  <a href="https://twitter.com/noson5434" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/noson-rabinovich" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/noson.rabinowitz" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/noson_rabinovich" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+<div align="center">
+   <a href="https://twitter.com/noson5434" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+   </a>
+   <a href="https://linkedin.com/in/noson-rabinovich" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+   </a>
+   <a href="https://fb.com/noson.rabinowitz" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+   </a>
+   <a href="https://instagram.com/noson_rabinovich" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+   </a>
+   <a href="mailto:noson5434@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+   </a>
+   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+   </a>
+</div>
 
-<!-- Stats -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noson5434&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="350px" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=noson5434&show_icons=true&locale=en" alt="GitHub Stats" width="350px" />
-</p>
-
-<!-- Streak Stats -->
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noson5434" alt="GitHub Streak" width="350px" />
-</p>
-
+<hr />
