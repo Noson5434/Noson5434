@@ -72,11 +72,11 @@
       <img width="390" height="195" src="https://streak-stats.demolab.com?user=noson5434&theme=dark" alt="GitHub Streak" />
    </a>
    <a href="https://github.com/noson5434">
-      <img width="390" height="195" src="https://github-readme-stats.vercel.app/api?username=noson5434&count_private=true&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
+      <img width="390" height="195" src="https://github-readme-stats.vercel.app/api?username=noson5434&count_private=true&show_icons=true&theme=react" alt="GitHub Stats" />
    </a>
    <br />
    <a href="https://github.com/noson5434">
-      <img width="390" height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noson5434&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+      <img width="390" height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noson5434&layout=compact&theme=react" alt="Top Languages" />
    </a>
 </div>
 
