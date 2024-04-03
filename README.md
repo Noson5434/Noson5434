@@ -9,17 +9,17 @@
 </h1>
 
 <!-- Info -->
-<h3 align="center">A passionate software developer from New Jersey, USA</h3>
+<h3 align="center">Hey from Jersey! 🚀 Software geek in the house!</h3>
 
 <div align="center">
 
-   🔭 I’m currently navigating through **the dynamic and expansive world of IT and software development**
+   🔭 On a quest in the wild world of tech – it’s a jungle out there!
 
-   🌱 I’m embarking on a journey through **cutting-edge technologies and innovative software engineering practices**
+   🌱 Diving deep into the latest gadgets and coding magic. Always up for a new adventure!
 
-   💬 Ask me about **the latest in software development, emerging IT trends, or simply exchange your most memorable road trip adventures [here](https://github.com/Noson5434/Noson5434/issues)**
+   💬 Got tech tricks or road trip tales? Let’s swap stories [here](https://github.com/Noson5434/Noson5434/issues)!
 
-   ⚡ Fun fact **Navigating code is akin to traversing open roads; both are filled with unexpected discoveries and opportunities for growth. Did you know that some of the biggest breakthroughs in technology were the result of unforeseen 'detours' and experimentation?**
+   ⚡ Fun fact: Ever code while on a road trip? Multitasking level 100. Bet some of the coolest apps were dreamt up on the open road!
 
 </div>
 
