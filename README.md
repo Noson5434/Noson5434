@@ -27,16 +27,16 @@
 
 <!-- Social Media Links -->
 <p align="center">
-  <a href="https://twitter.com/noson5434" target="_blank" rel="noopener noreferrer" aria-label="Twitter: @noson5434" title="Twitter">
+  <a href="https://twitter.com/noson5434" target="_blank" rel="noopener noreferrer" aria-label="Twitter: @noson5434" title="Twitter" style="text-decoration:none;display:inline-block;line-height:0">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" height="28" />
   </a>
-  <a href="https://linkedin.com/in/noson-rabinovich" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn: noson-rabinovich" title="LinkedIn">
+  <a href="https://linkedin.com/in/noson-rabinovich" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn: noson-rabinovich" title="LinkedIn" style="text-decoration:none;display:inline-block;line-height:0">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
   </a>
-  <a href="https://fb.com/noson.rabinowitz" target="_blank" rel="noopener noreferrer" aria-label="Facebook: noson.rabinowitz" title="Facebook">
+  <a href="https://fb.com/noson.rabinowitz" target="_blank" rel="noopener noreferrer" aria-label="Facebook: noson.rabinowitz" title="Facebook" style="text-decoration:none;display:inline-block;line-height:0">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="28" />
   </a>
-  <a href="https://instagram.com/noson_rabinovich" target="_blank" rel="noopener noreferrer" aria-label="Instagram: @noson_rabinovich" title="Instagram">
+  <a href="https://instagram.com/noson_rabinovich" target="_blank" rel="noopener noreferrer" aria-label="Instagram: @noson_rabinovich" title="Instagram" style="text-decoration:none;display:inline-block;line-height:0">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28" />
   </a>
 </p>
@@ -73,12 +73,12 @@
 <br>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Noson5434&theme=dark&hide_border=true" />
-    <img width="420" height="195" src="https://streak-stats.demolab.com?user=Noson5434&hide_border=true" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Noson5434&theme=dark&hide_border=true&card_width=840" />
+    <img width="840" height="195" src="https://streak-stats.demolab.com?user=Noson5434&hide_border=true&card_width=840" alt="GitHub Streak" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Noson5434&count_private=true&show_icons=true&theme=react&hide_border=true" />
-    <img width="420" height="195" src="https://github-readme-stats.vercel.app/api?username=Noson5434&count_private=true&show_icons=true&hide_border=true" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Noson5434&count_private=true&show_icons=true&theme=react&hide_border=true&card_width=840" />
+    <img width="840" height="195" src="https://github-readme-stats.vercel.app/api?username=Noson5434&count_private=true&show_icons=true&hide_border=true&card_width=840" alt="GitHub Stats" />
   </picture>
 </p>
 <p align="center">
