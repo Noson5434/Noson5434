@@ -78,11 +78,7 @@
 <hr />
 
 <!-- Bottom Buttons -->
-<p align="center" style="margin:18px 0">
-<a href="mailto:noson5434@gmail.com" aria-label="Email Noson" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:8px;padding:10px 14px;border-radius:999px;background:#EA4335;color:#ffffff;text-decoration:none;margin:6px"><img src="https://cdn.simpleicons.org/gmail/ffffff" alt="Gmail" width="18" height="18" /> <span style="font-weight:600">Get in touch</span></a>
-<a href="https://cal.com/noson" aria-label="Book a chat on Cal.com" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:8px;padding:10px 14px;border-radius:999px;background:#111827;color:#ffffff;text-decoration:none;margin:6px"><img src="https://cdn.simpleicons.org/cal.com/ffffff" alt="Cal.com" width="18" height="18" /> <span style="font-weight:600">Book a chat</span></a>
-<a href="https://ko-fi.com/noson5434" aria-label="Support on Ko-fi" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:8px;padding:10px 14px;border-radius:999px;background:#ec4899;color:#ffffff;text-decoration:none;margin:6px"><img src="https://cdn.simpleicons.org/ko-fi/ffffff" alt="Ko-fi" width="18" height="18" /> <span style="font-weight:600">Support</span></a>
-</p>
+<p align="center"> <a href="mailto:noson5434@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Get in touch" height="56" src="https://img.shields.io/badge/Get%20in%20touch-EA4335?style=flat&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://cal.com/noson" target="_blank" rel="noopener noreferrer"><img alt="Book a chat" height="56" src="https://img.shields.io/badge/Book%20a%20chat-000000?style=flat&logo=cal.com&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://ko-fi.com/noson5434" target="_blank" rel="noopener noreferrer"><img alt="Support" height="56" src="https://img.shields.io/badge/Support-ec4899?style=flat&logo=ko-fi&logoColor=white"></a> </p>
 
 <!-- Animated Wave Footer -->
 <div align="center">
