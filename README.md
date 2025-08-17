@@ -27,9 +27,9 @@
 
 <!-- Social Media Links -->
 <p align="center">
-  <a href="https://x.com/noson5434" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/x/ffffff" alt="X" width="60" height="60" style="background:#111111;border-radius:50%;padding:14px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://fb.com/noson.rabinowitz" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/facebook/ffffff" alt="Facebook" width="60" height="60" style="background:#1877F2;border-radius:50%;padding:14px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/noson_rabinovich" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/instagram/ffffff" alt="Instagram" width="60" height="60" style="background:#E4405F;border-radius:50%;padding:14px"></a>
+  <a href="https://x.com/noson5434" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/x/ffffff" alt="X" width="40" height="40" style="background:#111111;border-radius:50%;padding:14px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://fb.com/noson.rabinowitz" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/facebook/ffffff" alt="Facebook" width="40" height="40" style="background:#1877F2;border-radius:50%;padding:14px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/noson_rabinovich" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/instagram/ffffff" alt="Instagram" width="40" height="40" style="background:#E4405F;border-radius:50%;padding:14px"></a>
 </p>
 
 <hr />
@@ -82,7 +82,7 @@
 <hr />
 
 <!-- Bottom Buttons -->
-<p align="center"> <a href="mailto:noson5434@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Get in touch" height="56" src="https://img.shields.io/badge/Get%20in%20touch-EA4335?style=flat&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://cal.com/noson" target="_blank" rel="noopener noreferrer"><img alt="Book a chat" height="56" src="https://img.shields.io/badge/Book%20a%20chat-000000?style=flat&logo=cal.com&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://ko-fi.com/noson5434" target="_blank" rel="noopener noreferrer"><img alt="Support" height="56" src="https://img.shields.io/badge/Support-ec4899?style=flat&logo=ko-fi&logoColor=white"></a> </p>
+<p align="center"> <a href="mailto:noson5434@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Get in touch" height="56" src="https://img.shields.io/badge/Get%20in%20touch-EA4335?style=flat&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://cal.com/noson-rabinovich" target="_blank" rel="noopener noreferrer"><img alt="Book a chat" height="56" src="https://img.shields.io/badge/Book%20a%20chat-000000?style=flat&logo=cal.com&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://ko-fi.com/noson5434" target="_blank" rel="noopener noreferrer"><img alt="Support" height="56" src="https://img.shields.io/badge/Support-ec4899?style=flat&logo=ko-fi&logoColor=white"></a> </p>
 
 <!-- Animated Wave Footer -->
 <div align="center">
