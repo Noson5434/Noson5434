@@ -26,10 +26,10 @@
 <br />
 
 <!-- Social Media Links -->
-<p align="center" style="margin-top:16px">
-<a href="https://x.com/noson5434" aria-label="X profile" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border-radius:50%;background:#111111;margin:4px"><img src="https://cdn.simpleicons.org/x/ffffff" alt="X" width="22" height="22" loading="lazy" decoding="async" referrerpolicy="no-referrer" /></a>
-<a href="https://fb.com/noson.rabinowitz" aria-label="Facebook profile" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border-radius:50%;background:#1877F2;margin:4px"><img src="https://cdn.simpleicons.org/facebook/ffffff" alt="Facebook" width="22" height="22" loading="lazy" decoding="async" referrerpolicy="no-referrer" /></a>
-<a href="https://instagram.com/noson_rabinovich" aria-label="Instagram profile" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border-radius:50%;background:#E4405F;margin:4px"><img src="https://cdn.simpleicons.org/instagram/ffffff" alt="Instagram" width="22" height="22" loading="lazy" decoding="async" referrerpolicy="no-referrer" /></a>
+<p align="center">
+  <a href="https://x.com/noson5434" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/x/ffffff" alt="X" width="60" height="60" style="background:#111111;border-radius:50%;padding:14px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://fb.com/noson.rabinowitz" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/facebook/ffffff" alt="Facebook" width="60" height="60" style="background:#1877F2;border-radius:50%;padding:14px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/noson_rabinovich" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/instagram/ffffff" alt="Instagram" width="60" height="60" style="background:#E4405F;border-radius:50%;padding:14px"></a>
 </p>
 
 <hr />
