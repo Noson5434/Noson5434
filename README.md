@@ -84,8 +84,8 @@
 <!-- Bottom Buttons -->
 <p align="center">
   <a href="mailto:noson5434@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Get in touch" height="80" src="https://img.shields.io/badge/Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://cal.com/noson-rabinovich" target="_blank" rel="noopener noreferrer"><img alt="Book a chat" height="80" src="https://img.shields.io/badge/Book%20a%20chat-000000?style=for-the-badge&logo=cal.com&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ko-fi.com/noson5434" target="_blank" rel="noopener noreferrer"><img alt="Support" height="80" src="https://img.shields.io/badge/Support-ec4899?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
+  <a href="https://cal.com/noson-rabinovich" target="_blank" rel="noopener noreferrer"><img alt="Book a call" height="80" src="https://img.shields.io/badge/Book%20a%20call-000000?style=for-the-badge&logo=cal.com&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ko-fi.com/noson5434" target="_blank" rel="noopener noreferrer"><img alt="Support Me" height="80" src="https://img.shields.io/badge/Support%20Me-ec4899?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 </p>
 
 <!-- Animated Wave Footer -->
