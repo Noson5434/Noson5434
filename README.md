@@ -22,17 +22,17 @@
 </div>
 
 <!-- Social Media Links -->
-<p align="center">
-  <a href="https://twitter.com/noson5434"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" height="28"></a>
-  <a href="https://linkedin.com/in/noson-rabinovich"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"></a>
-  <a href="https://fb.com/noson.rabinowitz"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="28"></a>
-  <a href="https://instagram.com/noson_rabinovich"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28"></a>
+<p align="center" style="margin-top:16px">
+<a href="https://x.com/noson5434"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=ffffff" alt="X" height="28" style="border-radius:14px;margin:4px;"></a>
+<a href="https://linkedin.com/in/noson-rabinovich"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" height="28" style="border-radius:14px;margin:4px;"></a>
+<a href="https://fb.com/noson.rabinowitz"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=ffffff" alt="Facebook" height="28" style="border-radius:14px;margin:4px;"></a>
+<a href="https://instagram.com/noson_rabinovich"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram" height="28" style="border-radius:14px;margin:4px;"></a>
 </p>
 
 <hr />
 
 <!-- Skills / Tools -->
-<h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
+<h2 align="center">Languages · Frameworks · Tools</h2>
 <div align="center" style="margin:8px 0">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,python,nodejs,tailwind,bootstrap,html,css,git,github,vscode,mongodb,mysql" alt="Skills: React, Next.js, TypeScript, JavaScript, Python, Node.js, Tailwind CSS, Bootstrap, HTML, CSS, Git, GitHub, VSCode, MongoDB, MySQL" loading="lazy" decoding="async" referrerpolicy="no-referrer" />
 </div>
@@ -53,34 +53,39 @@
 <!-- Stats -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center" style="margin:0">
-  <div style="margin:8px 0">
+  <div style="margin:10px 0;padding:0;background:transparent;border-radius:16px;overflow:hidden;box-shadow:0 12px 30px rgba(0,0,0,.35);max-width:900px">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Noson5434&theme=dark&hide_border=true&card_width=840" />
-      <img src="https://streak-stats.demolab.com?user=Noson5434&hide_border=true&card_width=840"
-           alt="GitHub Streak" style="display:block" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Noson5434&theme=default&hide_border=true&card_width=840" />
+      <img src="https://streak-stats.demolab.com?user=Noson5434&hide_border=true&card_width=840" alt="GitHub Streak" style="display:block;width:100%;height:auto;border-radius:16px" />
     </picture>
   </div>
-  <div style="margin:8px 0">
+  <div style="margin:10px 0;padding:0;background:transparent;border-radius:16px;overflow:hidden;box-shadow:0 12px 30px rgba(0,0,0,.35);max-width:900px">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Noson5434&count_private=true&show_icons=true&theme=react&hide_border=true&card_width=840" />
-      <img src="https://github-readme-stats.vercel.app/api?username=Noson5434&count_private=true&show_icons=true&hide_border=true&card_width=840"
-           alt="GitHub Stats" style="display:block" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Noson5434&count_private=true&show_icons=true&theme=default&hide_border=true&card_width=840" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Noson5434&count_private=true&show_icons=true&hide_border=true&card_width=840" alt="GitHub Stats" style="display:block;width:100%;height:auto;border-radius:16px" />
     </picture>
   </div>
-  <div style="margin:8px 0">
+  <div style="margin:10px 0;padding:0;background:transparent;border-radius:16px;overflow:hidden;box-shadow:0 12px 30px rgba(0,0,0,.35);max-width:900px">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Noson5434&layout=compact&theme=react&hide_border=true&card_width=840" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noson5434&layout=compact&hide_border=true&card_width=840"
-           alt="Top Languages" style="display:block" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Noson5434&layout=compact&theme=default&hide_border=true&card_width=840" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noson5434&layout=compact&hide_border=true&card_width=840" alt="Top Languages" style="display:block;width:100%;height:auto;border-radius:16px" />
     </picture>
   </div>
 </div>
 
 <hr />
 
-<!-- Ko-fi -->
-<div align="center" style="margin:8px 0">
-  <a href="https://ko-fi.com/noson5434" target="_blank" rel="noopener noreferrer" title="Buy me a coffee" style="text-decoration:none;display:inline-block;line-height:0;vertical-align:middle">
-    <img height="64" style="border:0;height:64px;display:block" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Buy Me a Coffee at ko-fi.com" loading="lazy" decoding="async" />
-  </a>
+<!-- Bottom Buttons -->
+<p align="center" style="margin:18px 0">
+<a href="mailto:noson5434@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-22c55e?style=for-the-badge&logo=telegram&logoColor=ffffff" alt="Get in touch" height="34" style="border-radius:999px;margin:6px"></a>
+<a href="https://cal.com/noson"><img src="https://img.shields.io/badge/Book%20a%20chat-f59e0b?style=for-the-badge&logo=googlecalendar&logoColor=ffffff" alt="Book a chat" height="34" style="border-radius:999px;margin:6px"></a>
+<a href="https://ko-fi.com/noson5434"><img src="https://img.shields.io/badge/Support-ec4899?style=for-the-badge&logo=ko-fi&logoColor=ffffff" alt="Support" height="34" style="border-radius:999px;margin:6px"></a>
+</p>
+
+<!-- Animated Wave Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" alt="Wave footer" />
 </div>
