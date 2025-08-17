@@ -40,7 +40,7 @@
 <hr />
 
 <!-- Contributions Snake -->
-<h2 align="center">🐍 My Contributions</h2>
+<h2 align="center">My Activity</h2>
 <div align="center" style="margin:8px 0">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Noson5434/Noson5434/output/github-contribution-grid-snake-dark.svg" />
