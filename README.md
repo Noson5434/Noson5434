@@ -9,17 +9,21 @@
 </h1>
 
 <!-- About -->
-<h3 align="center" style="margin:8px 0">Reliable and hands-on IT professional turned full-stack engineer. I build reliable, fast, and accessible products.</h3>
+<h3 align="center" style="margin:8px 0">Hands-on IT professional and emerging full-stack engineer, focused on building scalable, performant, and accessible products.</h3>
 
 <div align="center" style="margin:8px 0">
-  🔧 Over 4 years supporting users, configuring platforms, and automating workflows. Comfortable across Windows, macOS, iOS, and Chrome OS.
-  <br />
-  🧩 Strong in networking, MDM (Intune, Jamf, Meraki), and admin tooling (Google Admin Console). I value clean architecture, performance, and developer experience.
-  <br />
-  🚀 Exploring type-safe backends, edge runtimes, and AI-assisted tooling.
-  <br />
-  💬 Have suggestions or questions? Open an issue <a href="https://github.com/Noson5434/Noson5434/issues">here</a>.
+  🔧 <b>5+ years of IT experience</b> supporting end users, configuring enterprise platforms, and automating workflows across <b>Windows, macOS, iOS, and ChromeOS</b> environments.
+  <br /><br />
+  🧩 Skilled in <b>networking, endpoint security, and mobile device management (MDM)</b>, including <b>Intune, Jamf, and Cisco Meraki</b>, as well as <b>admin tooling</b> such as <b>Google Admin Console</b>. Experienced in deploying and managing fleets of 1,000+ devices in enterprise and education settings.
+  <br /><br />
+  🚀 Transitioning into full-stack engineering with a focus on <b>type-safe backends, modern runtimes, and AI-assisted tooling</b>. Proficient with <b>JavaScript/TypeScript, React, Next.js, Node.js, and Python</b>, with a growing portfolio of automation scripts and web applications.
+  <br /><br />
+  📊 Dedicated to clean architecture, performance optimization, and developer experience. Continuously learning and contributing to open-source projects to sharpen technical expertise.
+  <br /><br />
+  💬 Open to collaboration, discussions, and problem-solving. Have suggestions or questions? Open an issue <a href="https://github.com/Noson5434/Noson5434/issues">here</a>.
 </div>
+
+<br />
 
 <!-- Social Media Links -->
 <p align="center" style="margin-top:16px">
