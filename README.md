@@ -4,7 +4,7 @@
 <!-- Typing SVG -->
 <h1 align="center" style="margin:0">
   <a href="https://git.io/typing-svg" style="text-decoration:none">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=840&height=70&duration=3500&lines=Hi+There+👋;+I'm+Noson+Rabinovich!;" alt="Typing SVG" style="display:block;width:100%;height:auto" loading="lazy" decoding="async" referrerpolicy="no-referrer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There+👋;+I'm+Noson+Rabinovich!;" alt="Typing SVG" width="500" height="70" loading="lazy" decoding="async" referrerpolicy="no-referrer" />
   </a>
 </h1>
 
@@ -23,10 +23,10 @@
 
 <!-- Social Media Links -->
 <p align="center" style="margin-top:16px">
-<a href="https://x.com/noson5434" aria-label="X profile" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=ffffff" alt="X" height="28" style="border-radius:999px;margin:4px" loading="lazy" decoding="async" referrerpolicy="no-referrer"></a>
-<a href="https://linkedin.com/in/noson-rabinovich" aria-label="LinkedIn profile" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" height="28" style="border-radius:999px;margin:4px" loading="lazy" decoding="async" referrerpolicy="no-referrer"></a>
-<a href="https://fb.com/noson.rabinowitz" aria-label="Facebook profile" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=ffffff" alt="Facebook" height="28" style="border-radius:999px;margin:4px" loading="lazy" decoding="async" referrerpolicy="no-referrer"></a>
-<a href="https://instagram.com/noson_rabinovich" aria-label="Instagram profile" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram" height="28" style="border-radius:999px;margin:4px" loading="lazy" decoding="async" referrerpolicy="no-referrer"></a>
+<a href="https://x.com/noson5434" aria-label="X profile" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border-radius:50%;background:#111111;margin:4px"><img src="https://cdn.simpleicons.org/x/ffffff" alt="X" width="22" height="22" loading="lazy" decoding="async" referrerpolicy="no-referrer" /></a>
+<a href="https://linkedin.com/in/noson-rabinovich" aria-label="LinkedIn profile" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border-radius:50%;background:#0A66C2;margin:4px"><img src="https://cdn.simpleicons.org/linkedin/ffffff" alt="LinkedIn" width="22" height="22" loading="lazy" decoding="async" referrerpolicy="no-referrer" /></a>
+<a href="https://fb.com/noson.rabinowitz" aria-label="Facebook profile" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border-radius:50%;background:#1877F2;margin:4px"><img src="https://cdn.simpleicons.org/facebook/ffffff" alt="Facebook" width="22" height="22" loading="lazy" decoding="async" referrerpolicy="no-referrer" /></a>
+<a href="https://instagram.com/noson_rabinovich" aria-label="Instagram profile" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border-radius:50%;background:#E4405F;margin:4px"><img src="https://cdn.simpleicons.org/instagram/ffffff" alt="Instagram" width="22" height="22" loading="lazy" decoding="async" referrerpolicy="no-referrer" /></a>
 </p>
 
 <hr />
@@ -80,9 +80,9 @@
 
 <!-- Bottom Buttons -->
 <p align="center" style="margin:18px 0">
-<a href="mailto:noson5434@gmail.com" aria-label="Email Noson" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Get in touch via Gmail" height="34" style="border-radius:999px;margin:6px" loading="lazy" decoding="async" referrerpolicy="no-referrer"></a>
-<a href="https://cal.com/noson" aria-label="Book a chat on Cal.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Book%20a%20chat-111827?style=for-the-badge&logo=cal.com&logoColor=ffffff" alt="Book a chat on Cal.com" height="34" style="border-radius:999px;margin:6px" loading="lazy" decoding="async" referrerpolicy="no-referrer"></a>
-<a href="https://ko-fi.com/noson5434" aria-label="Support on Ko-fi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Support-ec4899?style=for-the-badge&logo=ko-fi&logoColor=ffffff" alt="Support on Ko-fi" height="34" style="border-radius:999px;margin:6px" loading="lazy" decoding="async" referrerpolicy="no-referrer"></a>
+<a href="mailto:noson5434@gmail.com" aria-label="Email Noson" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:8px;padding:10px 14px;border-radius:999px;background:#EA4335;color:#ffffff;text-decoration:none;margin:6px"><img src="https://cdn.simpleicons.org/gmail/ffffff" alt="Gmail" width="18" height="18" /> <span style="font-weight:600">Get in touch</span></a>
+<a href="https://cal.com/noson" aria-label="Book a chat on Cal.com" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:8px;padding:10px 14px;border-radius:999px;background:#111827;color:#ffffff;text-decoration:none;margin:6px"><img src="https://cdn.simpleicons.org/cal.com/ffffff" alt="Cal.com" width="18" height="18" /> <span style="font-weight:600">Book a chat</span></a>
+<a href="https://ko-fi.com/noson5434" aria-label="Support on Ko-fi" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:8px;padding:10px 14px;border-radius:999px;background:#ec4899;color:#ffffff;text-decoration:none;margin:6px"><img src="https://cdn.simpleicons.org/ko-fi/ffffff" alt="Ko-fi" width="18" height="18" /> <span style="font-weight:600">Support</span></a>
 </p>
 
 <!-- Animated Wave Footer -->
